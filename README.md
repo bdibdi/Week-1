@@ -1,4 +1,5 @@
-# 10th-ML🐢 ```ML 세션```
+# 10th-ML
+# 🐣EURON 10기 Research 세션🐣
 
 ## 💚 팀 구성 💚
 
